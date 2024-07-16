@@ -319,10 +319,10 @@ CustomScrollView(
 ```
 
 ### Summary:
-*  SingleChildScrollView: For a single scrollable widget.
-*  ListView: For a scrollable list of items, either static or dynamic.
-*  GridView: For a scrollable grid of items, either static or dynamic.
-*  PageView: For creating scrollable pages.
-*  CustomScrollView: For custom scroll effects using slivers.
+*  `SingleChildScrollView:` For a single scrollable widget.
+*  `ListView:` For a scrollable list of items, either static or dynamic.
+*  `GridView:` For a scrollable grid of items, either static or dynamic.
+*  `PageView:` For creating scrollable pages.
+*  `CustomScrollView:` For custom scroll effects using slivers.
 
 Each of these scroll views is suited for different use cases, and you can choose the one that best fits your needs.
