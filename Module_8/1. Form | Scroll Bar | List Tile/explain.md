@@ -4,7 +4,7 @@
 3.  Scroll Bar
 
 
-## Column
+## 1. Column
 The  `Column` widget is used to create a vertical layout, stacking its children widgets one after the other. Here’s a basic exampl:
 
 ```
@@ -81,7 +81,7 @@ This example adds `SizedBox` widgets to create space between the items in the co
 
 ---------------------------------
 
-## Row
+## 2. Row
 The `Row` widget is used to create a horizontal layout, stacking its children widgets side by side. Here’s a basic example:
 
 ```
